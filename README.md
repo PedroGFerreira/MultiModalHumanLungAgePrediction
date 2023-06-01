@@ -14,6 +14,8 @@ by Athos Moraes, Marta Moreno, Rogério Ribeiro & Pedro G. Ferreira
 ## Methylation Pipeline
 ![Methylation Pipeline](https://github.com/PedroGFerreira/MultiModalHumanLungAgePrediction/blob/main/methylation_pipeline.jpg)
 
+![Feature Selection and SMOGN on Methylation data](https://github.com/PedroGFerreira/MultiModalHumanLungAgePrediction/blob/main/methylation_featsel_smogn.jpg)
+
 
 ## Histological images Pipeline
 

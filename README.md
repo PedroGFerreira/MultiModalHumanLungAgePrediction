@@ -7,7 +7,7 @@
 ## Gene Expression Pipeline
 
 ## Methylation Pipeline
-![Methylation Pipeline][methylation_pipeline.jpg]
+![Methylation Pipeline][MultiModalHumanLungAgePrediction/histological_pipeline.jpg]
 
 
 ## Histological images Pipeline

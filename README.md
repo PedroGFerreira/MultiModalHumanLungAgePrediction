@@ -18,6 +18,9 @@ by Athos Moraes, Marta Moreno, Rogério Ribeiro & Pedro G. Ferreira
 
 
 ## Histological images Pipeline
+
+UMAP based on the Haralick Features of 90 Lung samples
+
 ![UMAP based on the Haralick Features of 90 Lung samples](https://github.com/PedroGFerreira/MultiModalHumanLungAgePrediction/blob/main/HR_UMAP.jpg)
 
 

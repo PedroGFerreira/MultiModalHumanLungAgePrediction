@@ -44,8 +44,8 @@ CNN optimal Parameters. Parameters for the best performing model on the histolog
 
 <img src="https://github.com/PedroGFerreira/MultiModalHumanLungAgePrediction/blob/main/images/CNN_parameters.jpg"  width=20%>
 
-
-
+---
+# References
 
 1. Branco, P., Torgo, L., Ribeiro, R.P.: Smogn: a pre-processing approach for im-
 balanced regression. In: First international workshop on learning with imbalanced

@@ -37,7 +37,7 @@ CNN optimal Parameters
 <img src="https://github.com/PedroGFerreira/MultiModalHumanLungAgePrediction/blob/main/cnn_r2.jpg"  width=50%>
 
 
-<img src="https://github.com/PedroGFerreira/MultiModalHumanLungAgePrediction/blob/main/CNN_parameters.jpg"  width=50%>
+<img src="https://github.com/PedroGFerreira/MultiModalHumanLungAgePrediction/blob/main/CNN_parameters.jpg"  width=20%>
 
 
 

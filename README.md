@@ -9,7 +9,7 @@ by Athos Moraes, Marta Moreno, Rogério Ribeiro & Pedro G. Ferreira
 # Pipelines
 
 ## Gene Expression Pipeline
-<img src="https://github.com/PedroGFerreira/MultiModalHumanLungAgePrediction/blob/main/geneexpression_pipeline.jpg"  width="450" height="400">
+<img src="https://github.com/PedroGFerreira/MultiModalHumanLungAgePrediction/blob/main/geneexpression_pipeline.jpg"  width=70% height=70%>
 
 ## Methylation Pipeline
 ![Methylation Pipeline](https://github.com/PedroGFerreira/MultiModalHumanLungAgePrediction/blob/main/methylation_pipeline.jpg){width=50%}

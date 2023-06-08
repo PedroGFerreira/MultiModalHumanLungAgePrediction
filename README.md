@@ -5,7 +5,8 @@ _"Predicting age from human lung tissue through multi-modal data integration"_
 by Athos Moraes, Marta Moreno, Rogério Ribeiro & Pedro G. Ferreira
 
 
-======
+---
+
 # Pipelines
 
 ## Gene Expression Pipeline

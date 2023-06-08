@@ -12,13 +12,13 @@ by Athos Moraes, Marta Moreno, Rogério Ribeiro & Pedro G. Ferreira
 
 Pipeline for training and test of the gene expression model.
 
-<img src="https://github.com/PedroGFerreira/MultiModalHumanLungAgePrediction/blob/main/images/geneexpression_pipeline.jpg"  width=70% height=70%>
+<img src="https://github.com/PedroGFerreira/MultiModalHumanLungAgePrediction/blob/main/images/geneexpression_pipeline.jpg"  width=80% height=80%>
 
 ## Methylation Pipeline
 
 Pipeline for training and test of the DNA methylation model.
 
-<img src="https://github.com/PedroGFerreira/MultiModalHumanLungAgePrediction/blob/main/images/methylation_pipeline.jpg"  width=70% height=70%>
+<img src="https://github.com/PedroGFerreira/MultiModalHumanLungAgePrediction/blob/main/images/methylation_pipeline.jpg"  width=80% height=80%>
 
 
 Feature Selection and SMOGN on Methylation data. Application of the SMOGN data pre-processing following Branco et al [1] with the implementation from [2].
@@ -29,11 +29,11 @@ Feature Selection and SMOGN on Methylation data. Application of the SMOGN data p
 
 UMAP based on the Haralick Features of 90 Lung samples. No clear separation is found on the age of the individuals based on the Haralick features.
 
-<img src="https://github.com/PedroGFerreira/MultiModalHumanLungAgePrediction/blob/main/images/HR_UMAP.jpg"  width=50%>
+<img src="https://github.com/PedroGFerreira/MultiModalHumanLungAgePrediction/blob/main/images/HR_UMAP.jpg"  width=35%>
 
 Histological images Pipeline
 
-<img src="https://github.com/PedroGFerreira/MultiModalHumanLungAgePrediction/blob/main/images/histological_pipeline.jpg"  width=70% height=70%>
+<img src="https://github.com/PedroGFerreira/MultiModalHumanLungAgePrediction/blob/main/images/histological_pipeline.jpg"  width=80% height=80%>
 
 
 CNN optimal Parameters. Parameters for the best performing model on the histological image regression.

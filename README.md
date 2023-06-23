@@ -13,7 +13,7 @@ by Athos Moraes, Marta Moreno, Rogério Ribeiro & Pedro G. Ferreira
 
 Pipeline for training and test of the gene expression model.
 
-<img src="https://github.com/PedroGFerreira/MultiModalHumanLungAgePrediction/blob/main/images/gexp_pipeline.svg">
+<img src="https://github.com/PedroGFerreira/MultiModalHumanLungAgePrediction/blob/main/images/gexp_pipeline.png"  width=80% height=80%>
 
 ## Methylation Pipeline
 
